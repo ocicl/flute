@@ -1,0 +1,10 @@
+* flute
+
+A beautiful, easilly composable HTML5 generation library in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ailisp/flute.git   |
+| commit  | 90ebcd6  |
+| systems | flute |
+|---------+-------------------------------------------|
+
